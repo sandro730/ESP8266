@@ -1,5 +1,3 @@
-
-
 @echo off
 set ARDUINO_PATH=D:\Programmi_Home\Arduino\Arduino-1.8.4
 set ARDUINO_EXE=D:\Programmi_Home\Arduino\Arduino-1.8.4\arduino_debug.exe

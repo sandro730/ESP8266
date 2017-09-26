@@ -1,5 +1,3 @@
-
-
 @echo off
 set TERATERM_PATH=D:\Programmi_Home\Arduino\teraterm-4.96
 set TERATERM_EXE=D:\Programmi_Home\Arduino\teraterm-4.96\ttermpro.exe
