@@ -6,4 +6,4 @@
 ### Git Cheat Shee ###
 [Git Cheat Shee](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
 
-![Git Cheat Shee](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
+![Git Cheat Shee](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf?raw=true)
