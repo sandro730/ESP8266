@@ -1,10 +1,9 @@
 # ESP8266
 
-## Test 3
-
 ### Arduino Nano ###
+![Arduino Nano](https://github.com/sandro730/ESP8266/blob/master/image/nano.png)
 
-[Arduino Nano](ESP8266/image/Nano.png)
-
+### Git Cheat Shee ###
 [Git Cheat Shee](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
 
+![Git Cheat Shee](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.pdf)
