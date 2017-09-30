@@ -11,10 +11,7 @@
 
 - [Parti della stampante 3D 100 K ohm NTC 3950 Termistori con cavo per Stampante 3D Reprap Mend RAMPE 1.4 stampante HEATBED MK2B 3D A4988](https://it.aliexpress.com/item/1pcs-3d-printer-parts-100K-ohm-NTC-3950-Thermistors-with-cable-for-3D-Printer-Reprap-Mend/32619918084.html?spm=a2g0s.9042311.0.0.dEJMul)
 
-
-- [26 S ID 0.5mm OD1mm PTFE Teflon Tubi tubo Brand New Protezione Filo 600 V](
-
-https://it.aliexpress.com/item/26S-ID-0-5mm-OD1mm-PTFE-Teflon-Tubing-Pipe-Brand-New-Wire-Protection-600V/32608659666.html?spm=a2g0s.9042311.0.0.dEJMul
+- [26 S ID 0.5mm OD1mm PTFE Teflon Tubi tubo Brand New Protezione Filo 600 V](https://it.aliexpress.com/item/26S-ID-0-5mm-OD1mm-PTFE-Teflon-Tubing-Pipe-Brand-New-Wire-Protection-600V/32608659666.html?spm=a2g0s.9042311.0.0.dEJMul)
 
 - [10 Pz/lotto 100 K ohm NTC 3950 Termistori per Stampante 3D Reprap MendFor 3D letto Caldo Stampante MK2a MK2b](https://it.aliexpress.com/item/10Pcs-lot-100K-ohm-NTC-3950-Thermistors-for-3D-Printer-Reprap-MendFor-3D-Printer-Hot-bed/32237722796.html?spm=a2g0s.9042311.0.0.dEJMul)
 
