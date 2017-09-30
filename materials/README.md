@@ -3,7 +3,8 @@ Materials
 3D-V6 HotEnd Kit Completo-1.75mm 0.2mm/0.3mm/0.4mm/0.5mm di ugelli 12 V Bowden per RepRap 3D Estrusore Printer j-head
 
 https://it.aliexpress.com/item/E3D-V6-HotEnd-Full-Kit-1-75mm-0-2mm-0-3mm-0-4mm-0-5mm-of/32355949442.html?spm=a2g0s.9042311.0.0.SBRpTn
-[[ Test ]] ( https://github.com/sandro730/ESP8266/blob/master/materials/images/3D-V6_HotEnd/3D-V6-HotEnd-Kit-Completo_01.jpg | width=48 )
+
+![ Test ](https://github.com/sandro730/ESP8266/materials/images/3D-V6_HotEnd/3D-V6-HotEnd-Kit-Completo_01.jpg=250x250)
 
 
 
