@@ -58,4 +58,50 @@ https://it.aliexpress.com/item/Free-shipping-Optical-Endstop-Light-Control-Limit
 
 https://it.aliexpress.com/item/1M-PTFE-Tube-Teflon-PiPe-to-J-head-hotend-RepRap-Rostock-Bowden-Extruderfor-1-75mm-filament/32535429139.html?spm=a2g0s.9042311.0.0.0OPGIC
 
+NUOVO 5A Sala Attuale Modulo Sensore ACS712 modello 5A In magazzino di alta qualità
 
+https://it.aliexpress.com/item/NEW-5A-Hall-Current-Sensor-Module-ACS712-model-5A-In-stock-high-quality/32811713995.html?spm=a2g0s.9042311.0.0.tQImHi
+
+1 PZ I Piccoli moduli I2C RTC 24C32 memoria di clock DS1307 RTC module per arduino con batteria
+
+https://it.aliexpress.com/item/Free-shipping-20pcs-lot-The-Tiny-RTC-I2C-modules-24C32-memory-DS1307-clock-RTC-module-for/1876368739.html?spm=a2g0s.9042311.0.0.tQImHi
+
+1 pz 5 v 1a micro usb 18650 batteria al litio ricarica consiglio modulo caricatore + protezione funzioni doppie tp4056
+
+https://it.aliexpress.com/item/Free-Shipping-1PCS-5V-Micro-USB-1A-18650-Lithium-Battery-Charging-Board-With-Protection-Charger-Module/32476957358.html?spm=a2g0s.9042311.0.0.tQImHi
+
+1 PZ/LOTTO modulo MAX485, modulo RS485, TTL turn RS-485 modulo, bordo di sviluppo di MCU accessori
+
+https://it.aliexpress.com/item/FREE-SHIPPING-1PCS-LOT-MAX485-module-RS485-module-TTL-turn-RS-485-module-MCU-development-accessories/32262825525.html?spm=a2g0s.9042311.0.0.tQImHi
+
+Modulo MAX485 RS-485 MAX485CSA TTL a RS485 Converter Module Per Arduino Circuiti Integrati Prodotti
+
+https://it.aliexpress.com/item/MAX485-Module-RS-485-TTL-to-RS485-MAX485CSA-Converter-Module-For-Arduino-Integrated-Circuits-Products/32711277223.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 pz 2 Poli/2 Pin 2.54mm PCB Universale A Vite Morsettiera Connettore
+
+https://it.aliexpress.com/item/10pcs-2-Poles-2-Pin-2-54mm-PCB-Universal-Screw-Terminal-Block-Connector/32774484674.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 pz 4 Poli/4 Pin 2.54mm/0.1 "PCB Vite Universale Morsettiera Connettore
+
+https://it.aliexpress.com/item/10pcs-4-Poles-4-Pin-2-54mm-0-1-PCB-Universal-Screw-Terminal-Block-Connector/32774516155.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 pz 3 Poli/3 Pin 2.54mm PCB Universale A Vite Morsettiera Connettore
+
+https://it.aliexpress.com/item/10pcs-3-Poles-3-Pin-2-54mm-PCB-Universal-Screw-Terminal-Block-Connector/32776711319.html?spm=a2g0s.9042311.0.0.tQImHi
+
+NUOVO 20A Sala Modulo Sensore di Corrente ACS712 modello 20A ACS712 20A
+
+https://it.aliexpress.com/item/NEW-20A-Hall-Current-Sensor-Module-ACS712-model-20A-ACS712-20A/32831999370.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 PZ Passo 2.54mm 40 Pin Dritto Femmina Singola Fila di Pin Header Strip PCB Connector
+
+https://it.aliexpress.com/item/10PCS-2-54mm-40-Pin-Stright-Female-Single-Row-Pin-Header-Strip-PCB-Connector/32786932090.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 pz 40 Pin 1x40 Singola Fila Maschi 2.54 Intestazione Pin Frangibile Connettore Strip per Arduino Nero
+
+https://it.aliexpress.com/item/10pcs-40-Pin-1x40-Single-Row-Male-2-54-Breakable-Pin-Header-Connector-Strip-for-Arduino/32806313091.html?spm=a2g0s.9042311.0.0.tQImHi
+
+10 PZ DIY Prototipo di Carta PCB Board Universale 5*7 cm 5*7 cm
+
+https://it.aliexpress.com/item/10Pcs-5-x-7-cm-DIY-Prototype-Paper-PCB-Universal-Board-New/1852179981.html?spm=a2g0s.9042311.0.0.tQImHi
