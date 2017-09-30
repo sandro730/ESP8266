@@ -2,7 +2,8 @@
 
 - [3D-V6 HotEnd Kit Completo-1.75mm 0.2mm/0.3mm/0.4mm/0.5mm di ugelli 12 V Bowden per RepRap 3D Estrusore Printer j-head](https://it.aliexpress.com/item/E3D-V6-HotEnd-Full-Kit-1-75mm-0-2mm-0-3mm-0-4mm-0-5mm-of/32355949442.html?spm=a2g0s.9042311.0.0.SBRpTn)
 
-<p align="center"><img width="30%" height="auto" src="https://github.com/sandro730/ESP8266/blob/master/materials/images/3D-V6_HotEnd/3D-V6-HotEnd-Kit-Completo_01.jpg"/></p>
+<p align="right"><img width="16%" height="auto" src="https://github.com/sandro730/ESP8266/blob/master/materials/images/3D-V6_HotEnd/3D-V6-HotEnd-Kit-Completo_01.jpg"/></p>
+
 
 - [D503 1 pz Rc Mini Micro 9g 1.6 KG Servo SG90 per RC 250 450 Elicottero Aereo Auto Barca](https://it.aliexpress.com/item/Tower-Pro-Rc-Mini-Micro-9g-1-6KG-Servo-SG90-for-RC-250-450-Helicopter-Airplane/1104513783.html?spm=a2g0s.9042311.0.0.dEJMul)
 
